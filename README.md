@@ -1,12 +1,37 @@
-# React + Vite
+# To-Do List App ✅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive To-Do List built using **React.js**. This app allows users to:
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Edit tasks
+- Delete tasks
 
-Currently, two official plugins are available:
+## 🔧 Features
+- Clean UI with styled components
+- Interactive task controls
+- Dynamic state management with React Hooks (`useState`, `useEffect`)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 How to Run
+1. Clone this repo:
+git clone https://github.com/Nandhini14-rdm/To-Do-List.git
+2. Navigate to the project folder:
+cd To-Do-List
+3. Install dependencies:
+npm install
+4. Run the app:
+npm start
+npm run dev
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+Hosted on [Netlify](https://task-vortex.netlify.app/)  
+
+## 🛠 Built With
+- React
+- HTML, CSS
+- JavaScript
+
+## 🙋‍♀️ Author
+**Nandhini**  
+[GitHub](https://github.com/Nandhini14-rdm)
+
